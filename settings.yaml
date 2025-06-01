@@ -1,1 +1,14 @@
-zero_offset: 1.522772
+- Angle: 0.0
+  PhysicalOffsetX: 400.0
+  PhysicalOffsetY: 800.0
+  PhysicalSizeX: 600
+  PhysicalSizeY: 600
+  TargetMillisecondsPerPixel: 9.8
+  TargetResolutionHeight: 100
+  TargetResolutionWidth: 100
+- EndPosition: 0.0
+  InterferometerCenter: 400.0
+  InterferometerDistance: 800.0
+  NumberOfPoints: 600
+  NumberOfSkippedPoints: 0
+  StartPosition: 800.0
